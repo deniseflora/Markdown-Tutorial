@@ -1,6 +1,6 @@
 # Meu Tutorial para Markdown
 Esse tutorial tem como objetivo a aplicação da sintaxe da linguagem Markdown para a formatação de textos, tabelas, listas, links e mídeas.
-Foram inseridas os conceitos e a sintaxe básica e estendida, com exemplos baseados nos principais guias e tutoriais.
+Foram inseridas os conceitos da sintaxe básica e estendida, com exemplos baseados em guias e tutoriais sobre o tema.
 
 ## Definição e Aplicações
 
