@@ -1,4 +1,6 @@
 # Meu Tutorial para Markdown
+Esse tutorial tem como objetivo a aplicação da sintaxe da linguagem Markdown para a formatação de textos, tabelas, listas, links e mídeas.
+Foram inseridas os conceitos e a sintaxe básica e estendida, com exemplos baseados nos principais guias e tutoriais.
 
 ## Definição e Aplicações
 
@@ -190,17 +192,17 @@ Usar pipes` (|)` para delimitar colunas e linhas. Os hífens `(-)` criam o cabe�
 
 ```bash
 | Alinhado à Esquerda  | Centralizado  | Alinhado à Direita |
-| :---------------------------- |:---------------:| --------------------:|
-| Item                          | Item          |  Item             |
-| Item                         | Item           |   Item            |
-| Item                         | Item          |    Item           |
+| :---------------- -- |:-------------:| ------------------:|
+| Item                 | Item          |  Item              |
+| Item                 | Item          |   Item             |
+| Item                 | Item          |    Item            |
 ```
 
 | Alinhado à Esquerda  | Centralizado  | Alinhado à Direita |
-| :---------------------------- |:---------------:| --------------------:|
-| Item                          | Item           |  Item               |
-| Item                          | Item          |   Item            |
-| Item                         | Item           |    Item            |
+| :------------------- |:-------------:| ------------------:|
+| Item                 | Item          |  Item              |
+| Item                 | Item          |   Item             |
+| Item                 | Item          |    Item            |
 
 ## Links 
 Adicione colchetes `[ ]` seguidos de parênteses `( )`. Dentro dos colchetes insira o título do link e dos parênteses a URL. Links automáticos ficam inseridos entre `< e >`.
