@@ -262,6 +262,6 @@ Saiba mais sobre a nota.[^1]
 
 2.[Daring Fireball](https://daringfireball.net/projects/markdown/index.text)
 
-3.[Markdown Guide](https://www-markdownguide-org)
+3.[Markdown Guide](https://www.markdownguide.org/)
 
-4.[GitHub](https://help.github.com/articles/markdown-basics/)
+4.[GitHub](https://github.com)
