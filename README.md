@@ -1,9 +1,9 @@
 # Meu Tutorial para Markdown
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub repo size](https://img.shields.io/github/repo-size/deniseflora/Markdown-Tutorial)
+[![made-with-Markdown](https://img.shields.io/badge/Markdown-black.svg)](http://commonmark.org)
+![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/deniseflora/Markdown-Tutorial)
 ![GitHub](https://img.shields.io/github/license/deniseflora/Markdown-Tutorial)
+
 Esse tutorial tem como objetivo a aplicação da sintaxe da linguagem Markdown para a formatação de textos, tabelas, listas, links e mídeas.
 Foram inseridas os conceitos da sintaxe básica e estendida, com exemplos baseados em guias e tutoriais sobre o tema.
 
@@ -271,4 +271,4 @@ Saiba mais sobre a nota.[^1]
 
 4.[Shieldes.io](https://shields.io/)
 
-5.[markdown-badges](https://github.com/Ileriayo/markdown-badges)
+5.[markdown-badges](https://dev.to/envoy_/150-badges-for-github-pnk)
